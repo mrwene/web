@@ -1,12 +1,11 @@
 body{
     background-color: #edeff0;
-    margin: 0;
-    vertical-align: center;
+    vertical-align: auto;
     margin: 0 auto;
     
 }
 
-h3.intro-head {
+.intro-head {
     text-align: center;
     color: #4b4b4b;
     /* font-family: 'Sacramento', cursive; */
