@@ -1,2 +1,5 @@
-# website
-This is the official website for Mr Wene.
+# Mr.Wene Official website
+This is Mr.Wene's official website. 
+
+### Languages
+CSS, HTML
