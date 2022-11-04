@@ -11,5 +11,6 @@ body{
     /* font-family: 'Sacramento', cursive; */
     font-family: monospace;
     margin: 0 auto;
-    font-size: 5em;
+    font-size: 3em;
+    font-weight: normal;
 }
