@@ -3,11 +3,12 @@ body{
     vertical-align: auto;
     margin: 0 auto;
     
+    
 }
 
 h1 {
     text-align: center;
-    color: #4b4b4b;
+    color: #40514e;
     /* font-family: 'Sacramento', cursive; */
     font-family: monospace;
     font-size: 1.5rem;
